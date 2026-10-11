@@ -1,0 +1,9 @@
+# THE AFTERLIGHT UNIVERSE
+
+หน้าเว็บอ่าน World Bible ของจักรวาล Afterlight
+
+## เผยแพร่ด้วย GitHub Pages
+
+ตั้งค่า Settings → Pages → Deploy from a branch → `main` → `/(root)` แล้วบันทึก GitHub จะเผยแพร่ไฟล์ `index.html` โดยอัตโนมัติ
+
+ไฟล์เว็บไซต์อยู่ใน `index.html` และทำงานได้โดยไม่ต้องติดตั้งเครื่องมือหรือเชื่อมต่อบริการภายนอก
